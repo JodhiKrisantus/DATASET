@@ -1,3 +1,6 @@
 #ini adalah No Telpon
 - 081280847541
 - 0215870049
+# Daftar Nama
+- Jodhi Krisantus
+- Jodhi Sihalbu
